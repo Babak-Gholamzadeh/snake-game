@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1378256001 source:c:\users\cancer\desktop\cppcb\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<process.h>
+	<stdlib.h>
+	<time.h>
+
+1378542201 source:d:\cancer\e\c\_programming c++\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<process.h>
+	<stdlib.h>
+	<time.h>
+
